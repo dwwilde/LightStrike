@@ -1,0 +1,14 @@
+Modified from an IRrecv demo from Ken Shirrif
+Reads light strike IR codes
+Sends codes formatted as [TEAM] [COUNT] [WEAPON] on serial input
+
+IR Emitter based on http://www.ladyada.net/make/tvbgone/design.html
+http://rich.whiffen.org/2011/10/my-first-light-strike-mod-and-tear-down.html
+http://www.meatandnetworking.com/projects/hacking-at-the-light-strike-laser-tag-game/
+https://github.com/LightStrikePlusPlus/LightStrikeDecode
+https://docs.google.com/spreadsheet/ccc?key=0Arz5A-6gtL3kdDRFNlVpSHdkUEhUTi1mMHhlaDU0WUE#gid=0
+Hold down shield, teamselect, and fire to deactivate health meter on gun.
+Teensyduino pinout http://www.pjrc.com/teensy/teensyduino.html
+Adafruit i2c/spi character LCD Backpack  http://www.adafruit.com/products/292
+Adafruit Standard LCD 16x2 + extras - white on blue  http://www.adafruit.com/products/181
+Adafruit Teensy http://www.adafruit.com/products/199
